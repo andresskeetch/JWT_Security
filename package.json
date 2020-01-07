@@ -1,0 +1,26 @@
+{
+  "name": "jwt_security",
+  "version": "1.0.0",
+  "description": "Authorization Server",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresskeetch/JWT_Security.git"
+  },
+  "author": "@andresskeetch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresskeetch/JWT_Security/issues"
+  },
+  "homepage": "https://github.com/andresskeetch/JWT_Security#readme"
+}
